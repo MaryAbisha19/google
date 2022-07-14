@@ -1,0 +1,86 @@
+.snow{
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    border: 10px;
+}
+.logo{
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.girl{
+    width: 50%;
+    height: 70%;
+    border-radius: 50%;
+    border: 10px;
+
+}
+.deep{
+    width: 50%;
+    height: 70%;
+    border-radius: 50%;
+    border: 10px;
+}
+.wall{
+    width: 50%;
+    height: 70%;
+    border-radius: 50%;
+    border: 10px;
+
+}
+.net{
+    width: 50%;
+    height: 70%;
+    border-radius: 50%;
+    border: 10px; 
+}
+.life{
+    width: 60%;
+    height: 70%;
+    border-radius: 50%;
+    border: 5px; 
+
+}
+.tree{
+    width: 50%;
+    height: 70%;
+    border-radius: 50%;
+    border: 10px; 
+
+
+}
+.quotes{
+    width: 50%;
+    height: 70%;
+    border-radius: 50%;
+    border: 10px; 
+
+}
+.tea{
+    width: 50%;
+    height: 70%;
+    border-radius: 50%;
+    border: 10px; 
+}
+.fall{
+    width: 50%;
+    height: 70%;
+    border-radius: 50%;
+    border: 10px; 
+}
+.pen{
+    width: 50%;
+    height: 70%;
+    border-radius: 50%;
+    border: 10px
+}
+body{
+    background-image: url(swam.jpg);
+    background-repeat: no-repeat;
+     background-size: cover;
+}
+.search{
+    border-radius: 50px;
+}
